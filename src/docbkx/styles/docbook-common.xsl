@@ -47,7 +47,7 @@
 	-->
 
 	<xsl:param name="projectversion"></xsl:param>
-	<xsl:param name="imageicon">url(images/dbx/fsfe.gif)</xsl:param>
+	<xsl:param name="imageicon">url(images/dbx/fsfe-logo_bgreen_fellow.png)</xsl:param>
 
 	<!--
 		*********** Templates ***********************
