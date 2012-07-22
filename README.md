@@ -5,7 +5,10 @@ Docbook style project for [RADeS](https://github.com/FunThomas424242/RADeS) docu
 
 **Build on Jenkins**: [![Build Status](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/badge/icon)](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/)
 
-_Maven Repositories_
+**Project Site:** http://funthomas424242.github.com/rades-docbook-style
+
+Maven Repositories
+------------------
 
 **Snapshot**: https://repository-funthomas424242.forge.cloudbees.com/snapshot/
 
