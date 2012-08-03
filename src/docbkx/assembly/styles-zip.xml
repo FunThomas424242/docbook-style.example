@@ -12,7 +12,7 @@
 			<directory>${project.basedir}/src/docbkx</directory>
 			<outputDirectory />
 			<includes>
-				<include>assembly/userguide-zip.xml</include>
+				<include>assembly/template-zip.xml</include>
 				<include>styles/**</include>
 				<include>images/dbx/**</include>
 			</includes>
