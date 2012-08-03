@@ -13,10 +13,33 @@
 		Logos, Fonts, Stylangaben basierend auf den frei zugänglichen
 		Quellen auf https://bitbucket.org/sobkowiak/docbook-demos.git
 	</description>
- 
+
+
+	<prerequisites>
+		<maven>3.0</maven>
+	</prerequisites>
+
+	<profiles>
+		<profile>
+			<id>hudson</id>
+			<properties>
+				<testonly>false</testonly>
+			</properties>
+		</profile>
+		<profile>
+			<id>local</id>
+			<properties>
+				<testonly>true</testonly>
+			</properties>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+	</profiles>
+
+
 	<properties>
 		<!-- general -->
-		<testonly>false</testonly>
 		<user.jdk-version>1.6</user.jdk-version>
 		<github.global.userName>${env.gituser}</github.global.userName>
 		<github.global.password>${env.gitpassword}</github.global.password>
@@ -119,7 +142,7 @@
 				<version>0.6</version>
 				<configuration>
 					<description>
-						Stylsheet Definitionen für 
+						Stylsheet Definitionen für
 						Version ${project.version} zum Herunterladen.</description>
 					<override>true</override>
 					<includeAttached>true</includeAttached>
