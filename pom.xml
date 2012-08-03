@@ -13,7 +13,7 @@
 		Logos, Fonts, Stylangaben basierend auf den frei zugänglichen
 		Quellen auf https://bitbucket.org/sobkowiak/docbook-demos.git
 	</description>
-
+ 
 	<properties>
 		<!-- general -->
 		<testonly>false</testonly>
