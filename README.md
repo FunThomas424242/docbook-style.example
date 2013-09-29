@@ -3,7 +3,7 @@ rades-docbook-style
 
 Docbook style project for [RADeS](https://github.com/FunThomas424242/RADeS) documenation.
 
-**Build on Jenkins**: [![Build Status](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/badge/icon)](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/)
+**Build on Jenkins**: [![Build Status](https://funthomas424242.ci.cloudbees.com/buildStatus/icon?job=rades-docbook-style)](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/)
 
 **Project Site:** http://funthomas424242.github.com/rades-docbook-style
 
