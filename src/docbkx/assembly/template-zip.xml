@@ -8,7 +8,7 @@
     <includeBaseDirectory>false</includeBaseDirectory>
     <fileSets>
         <fileSet>
-            <directory>${project.basedir}/target/docbkx</directory>
+            <directory>${project.basedir}/target/site</directory>
             <outputDirectory/>
             <excludes>
                 <exclude>**/*.fo</exclude>
