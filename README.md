@@ -4,23 +4,14 @@ docbook-style.example
 Docbook style example project.
 This project was used in the project [RADeS](https://github.com/FunThomas424242/RADeS) to generate the documenation.
 
-[![Build Status](https://travis-ci.org/FunThomas424242/rades-docbook-style.svg?branch=master)](https://travis-ci.org/FunThomas424242/rades-docbook-style)
+[![Build Status](https://travis-ci.org/FunThomas424242/docbook-style.example.svg?branch=master)](https://travis-ci.org/FunThomas424242/docbook-style.example)
 
-Download the style at: https://github.com/FunThomas424242/rades-docbook-style/blob/gh-pages/downloads/rades-docbook-style-1.0.0-SNAPSHOT.zip?raw=true
+Download the style at: https://github.com/FunThomas424242/docbook-style.example/blob/gh-pages/downloads/rades-docbook-style-1.0.0-SNAPSHOT.zip?raw=true
 
-Documentation is uploaded to: http://funthomas424242.github.io/rades-docbook-style/index.html
+Documentation is uploaded to: http://funthomas424242.github.io/docbook-style.example/index.html
 
+**Project Site:** http://funthomas424242.github.com/docbook-style.example
 
-**Build on Jenkins**: [![Build Status](https://funthomas424242.ci.cloudbees.com/buildStatus/icon?job=rades-docbook-style)](https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/)
-
-**Project Site:** http://funthomas424242.github.com/rades-docbook-style
-
-Maven Repositories
-------------------
-
-**Snapshot**: https://repository-funthomas424242.forge.cloudbees.com/snapshot/
-
-**Release**: https://repository-funthomas424242.forge.cloudbees.com/release/
 
 Build powered by
 ----------------
