@@ -1,7 +1,8 @@
-rades-docbook-style
-===================
+docbook-style.example
+=====================
 
-Docbook style project for [RADeS](https://github.com/FunThomas424242/RADeS) documenation.
+Docbook style example project.
+This project was used in the project [RADeS](https://github.com/FunThomas424242/RADeS) to generate the documenation.
 
 [![Build Status](https://travis-ci.org/FunThomas424242/rades-docbook-style.svg?branch=master)](https://travis-ci.org/FunThomas424242/rades-docbook-style)
 
