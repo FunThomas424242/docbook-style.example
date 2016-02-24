@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.funthomas424242</groupId>
-	<artifactId>rades-docbook-style</artifactId>
+	<artifactId>docbook-style.example</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>RADeS Docbook Style</name>
-	<url>https://github.com/FunThomas424242/rades-docbook-style</url>
+	<name>Docbook Style Example</name>
+	<url>https://github.com/FunThomas424242/docbook-style.example</url>
 	<description>
 		Logos, Fonts, Stylangaben basierend auf den frei zugänglichen
 		Quellen auf https://bitbucket.org/sobkowiak/docbook-demos.git
@@ -16,7 +16,7 @@
 
 
 	<prerequisites>
-		<maven>3.0</maven>
+		<maven>3.2.5</maven>
 	</prerequisites>
 
 	<profiles>
@@ -48,7 +48,7 @@
 
 	<properties>
 		<!-- general -->
-		<user.jdk-version>1.6</user.jdk-version>
+		<user.jdk-version>1.8</user.jdk-version>
 		<github.global.userName>${env.gituser}</github.global.userName>
 		<github.global.password>${env.gitpassword}</github.global.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -56,7 +56,7 @@
 		<maven-assembly-plugin.version>2.2.1</maven-assembly-plugin.version>
 	</properties>
 
-	<repositories>
+	<!-- <repositories>
 		<repository>
 			<id>cloudbees-snapshots</id>
 			<url>http://repository-funthomas424242.forge.cloudbees.com/snapshot/</url>
@@ -65,7 +65,7 @@
 			<id>cloudbees-releases</id>
 			<url>http://repository-funthomas424242.forge.cloudbees.com/release/</url>
 		</repository>
-	</repositories>
+	</repositories> -->
 
 	<pluginRepositories>
 		<pluginRepository>
@@ -74,18 +74,18 @@
 		</pluginRepository>
 	</pluginRepositories>
 
-	<ciManagement>
+	<!-- <ciManagement>
 		<system>Jenkins</system>
-		<url>https://funthomas424242.ci.cloudbees.com/job/rades-docbook-style/</url>
+		<url>https://funthomas424242.ci.cloudbees.com/job/docbook-style.example/</url>
 	</ciManagement>
-
+ -->
 	<issueManagement>
 		<system>Issue</system>
-		<url>https://github.com/funthomas424242/rades-docbook-style/issues</url>
+		<url>https://github.com/funthomas424242/docbook-style.example/issues</url>
 	</issueManagement>
-
+<!-- 
 	<distributionManagement>
-		<downloadUrl>https://github.com/FunThomas424242/rades-docbook-style/downloads</downloadUrl>
+		<downloadUrl>https://github.com/FunThomas424242/docbook-style.example/downloads</downloadUrl>
 		<snapshotRepository>
 			<id>cloudbees-snapshots</id>
 			<name>Snapshot Repository at CloudBees</name>
@@ -98,7 +98,7 @@
 			<uniqueVersion>false</uniqueVersion>
 			<url>https://repository-funthomas424242.forge.cloudbees.com/release/</url>
 		</repository>
-	</distributionManagement>
+	</distributionManagement> -->
 
 	<licenses>
 		<license>
@@ -109,9 +109,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/FunThomas424242/rades-docbook-style</url>
-		<connection>scm:git:git://github.com/funthomas424242/rades-docbook-style.git</connection>
-		<developerConnection>scm:git:git@github.com:funthomas424242/rades-docbook-style.git</developerConnection>
+		<url>https://github.com/FunThomas424242/docbook-style.example</url>
+		<connection>scm:git:git://github.com/funthomas424242/docbook-style.example.git</connection>
+		<developerConnection>scm:git:git@github.com:funthomas424242/docbook-style.example.git</developerConnection>
 	</scm>
 
 	<developers>
