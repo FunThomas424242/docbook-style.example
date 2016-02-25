@@ -17,6 +17,3 @@ Build powered by
 ----------------
 
 [![Maven](http://maven.apache.org/images/logos/maven-feather.png)](http://maven.apache.org)
-
-[![CloudBees](http://web-static-cloudfront.s3.amazonaws.com/images/badges/BuiltOnDEV.png)](http://cloudbees.com)
-
