@@ -6,7 +6,7 @@ This project was used in the project [RADeS](https://github.com/FunThomas424242/
 
 [![Build Status](https://travis-ci.org/FunThomas424242/docbook-style.example.svg?branch=master)](https://travis-ci.org/FunThomas424242/docbook-style.example)
 
-Download the style at: https://github.com/FunThomas424242/docbook-style.example/blob/gh-pages/downloads/rades-docbook-style-1.0.0-SNAPSHOT.zip?raw=true
+Download the style at: https://github.com/FunThomas424242/docbook-style.example/blob/gh-pages/downloads/docbook-style.example-1.0.0-SNAPSHOT.zip
 
 Documentation is uploaded to: http://funthomas424242.github.io/docbook-style.example/index.html
 
